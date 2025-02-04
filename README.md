@@ -2,6 +2,9 @@
 
 This is a React-based web application built with Vite, featuring a counter, user data form, and a rich text editor. The application uses Material UI for styling, React Spring for animations, and React Router for routing. It also includes a mock authentication feature, Google Sign-In, and a dashboard for visualizing user data trends.
 
+## Vercel-Deployment Link
+-  https://upliance-assignment-theta.vercel.app/form
+
 ## Features
 
 ### 1. **Counter Component**
@@ -58,5 +61,3 @@ This is a React-based web application built with Vite, featuring a counter, user
 - Source code repository with commits.
 - A report explaining component structure and state management choices.
 
-## Vercel-Deployment Link
--  https://upliance-assignment-theta.vercel.app/form
